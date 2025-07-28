@@ -51,7 +51,7 @@ const outerWrapper = {
   padding: '20px',
   width: '100%',
   boxSizing: 'border-box',
-  overflowX: 'auto', // prevent screen from moving horizontally
+  overflowX: 'auto',
 };
 
 const tableWrapper = {

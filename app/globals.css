@@ -1,5 +1,6 @@
 /* app/globals.css */
 
+<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
@@ -25,6 +26,18 @@ html, body {
 }
 
 /* Sidebar */
+=======
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.layout-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+>>>>>>> a1164b31685c01de719572ae24b71c6638881267
 .sidebar {
   width: 220px;
   background-color: #2c3e50;
@@ -57,16 +70,25 @@ html, body {
   text-decoration: underline;
 }
 
+<<<<<<< HEAD
 /* Main Content */
+=======
+>>>>>>> a1164b31685c01de719572ae24b71c6638881267
 .main-content {
   flex-grow: 1;
   padding: 20px;
   background-color: #ecf0f1;
+<<<<<<< HEAD
   height: 100%;
   overflow: hidden; /* ✅ prevent scroll */
 }
 
 /* Responsive */
+=======
+}
+
+/* Responsive for mobile */
+>>>>>>> a1164b31685c01de719572ae24b71c6638881267
 @media (max-width: 768px) {
   .layout-container {
     flex-direction: column;
