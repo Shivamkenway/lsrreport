@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 'use client';
 
 import { useRef, useState, useEffect } from 'react';
@@ -172,7 +171,6 @@ const exportButtonStyle = { backgroundColor: 'green', color: 'white', padding: '
 const logoutButtonStyle = { backgroundColor: '#e53935', color: 'white', padding: '6px 18px', border: 'none', borderRadius: '5px', cursor: 'pointer' };
 const dateInputStyle = { marginLeft: '8px', padding: '6px', fontSize: '14px', border: '1px solid #ccc', borderRadius: '4px' };
 const headerCellStyle = { border: '1px solid #555', padding: '10px', textAlign: 'center', fontWeight: 'bold' };
-=======
 'use client';
 
 import { useRef, useState, useEffect } from 'react';
@@ -346,5 +344,4 @@ const exportButtonStyle = { backgroundColor: 'green', color: 'white', padding: '
 const logoutButtonStyle = { backgroundColor: '#e53935', color: 'white', padding: '6px 18px', border: 'none', borderRadius: '5px', cursor: 'pointer' };
 const dateInputStyle = { marginLeft: '8px', padding: '6px', fontSize: '14px', border: '1px solid #ccc', borderRadius: '4px' };
 const headerCellStyle = { border: '1px solid #555', padding: '10px', textAlign: 'center', fontWeight: 'bold' };
->>>>>>> a1164b31685c01de719572ae24b71c6638881267
 const cellStyle = { border: '1px solid #555', padding: '10px', textAlign: 'center' };

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 'use client';
 
 import { useRef, useState, useEffect } from 'react';
@@ -215,7 +214,6 @@ const cellStyle = {
   padding: '10px',
   textAlign: 'center'
 };
-=======
 'use client';
 
 import { useRef, useState, useEffect } from 'react';
@@ -456,4 +454,3 @@ const evenRowStyle = {
 const oddRowStyle = {
   backgroundColor: '#ffffff'
 };
->>>>>>> a1164b31685c01de719572ae24b71c6638881267

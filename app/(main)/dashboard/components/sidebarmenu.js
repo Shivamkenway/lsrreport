@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 'use client';
 
 import Link from 'next/link';
@@ -52,7 +51,6 @@ export default function SidebarMenu() {
     </div>
   );
 }
-=======
 'use client';
 
 import Link from 'next/link';
@@ -106,4 +104,3 @@ export default function SidebarMenu() {
     </div>
   );
 }
->>>>>>> a1164b31685c01de719572ae24b71c6638881267

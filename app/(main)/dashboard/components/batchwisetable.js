@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 'use client';
 
 import { useRef, useState, useEffect } from 'react';
@@ -158,7 +157,6 @@ const cellStyle = {
   border: '1px solid #555',
   padding: '10px',
   textAlign: 'center'
-=======
 'use client';
 
 import { useRef, useState, useEffect } from 'react';
@@ -318,5 +316,4 @@ const cellStyle = {
   border: '1px solid #555',
   padding: '10px',
   textAlign: 'center'
->>>>>>> a1164b31685c01de719572ae24b71c6638881267
 };

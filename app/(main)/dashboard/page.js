@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 'use client';
 
 import { useEffect, useState, useRef } from 'react';
@@ -201,7 +200,6 @@ const statusStyle = (color) => ({
   fontWeight: 'bold',
   display: 'inline-block'
 });
-=======
 'use client';
 
 import { useEffect, useState, useRef } from 'react';
@@ -375,4 +373,3 @@ const statusStyle = (color) => ({
   color: '#fff',
   fontWeight: 'bold'
 });
->>>>>>> a1164b31685c01de719572ae24b71c6638881267

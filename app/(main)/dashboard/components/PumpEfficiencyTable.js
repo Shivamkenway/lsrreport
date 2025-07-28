@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 'use client';
 
 export default function PumpEfficiencyTable({ data }) {
@@ -63,7 +62,6 @@ const cellStyle = {
   padding: '10px',
   textAlign: 'center'
 };
-=======
 'use client';
 
 export default function PumpEfficiencyTable({ data }) {
@@ -128,4 +126,3 @@ const cellStyle = {
   padding: '10px',
   textAlign: 'center'
 };
->>>>>>> a1164b31685c01de719572ae24b71c6638881267

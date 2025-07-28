@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 'use client';
 
 import React from 'react';
@@ -101,7 +100,6 @@ const cellStyle = {
   textAlign: 'center',
   color: '#333'
 };
-=======
 'use client';
 
 import React from 'react';
@@ -204,4 +202,3 @@ const cellStyle = {
   textAlign: 'center',
   color: '#333'
 };
->>>>>>> a1164b31685c01de719572ae24b71c6638881267

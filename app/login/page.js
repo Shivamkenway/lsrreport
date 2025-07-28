@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 "use client";
 import { useRouter } from "next/navigation";
 import { useState, useEffect } from "react";
@@ -105,7 +104,6 @@ const loginButtonStyle = {
   cursor: "pointer",
   fontSize: "16px",
 };
-=======
 "use client";
 import { useRouter } from "next/navigation";
 import { useState, useEffect } from "react";
@@ -164,4 +162,3 @@ export default function LoginPage() {
     </div>
   );
 }
->>>>>>> a1164b31685c01de719572ae24b71c6638881267
